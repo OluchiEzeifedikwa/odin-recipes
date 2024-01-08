@@ -1,0 +1,47 @@
+p {color: blue;
+    display: block;
+
+}
+
+.ING {color: brown;
+    padding: 15px;
+    background-color: black;
+    width: 150px;
+    margin: 0 auto;
+
+}
+
+#STP {color: azure;
+    background-color: #00ff00;
+    padding: 15px;
+    width: 150px;
+    margin: 0 auto;
+
+}
+
+ul {display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+ul li{background-color: blueviolet;
+    padding: 10px;
+    width: 200px;
+    flex: 1 1 auto;
+
+}
+
+
+
+h1 {color: #00ff00;
+text-align: center;
+font-size: xx-large;
+font-weight: bold;}
+
+
+
+div {display: block;}
+
+* {border: 2px solid red;
+}
